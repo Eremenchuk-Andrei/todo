@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../weblayout/blanchard"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../js_test"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "08_dom-basics-2",
+		"liveServer.settings.port": 5501
+	}
+}
